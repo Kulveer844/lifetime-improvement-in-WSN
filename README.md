@@ -3,13 +3,13 @@ This project explores a novel energy-efficient clustering strategy for Wireless 
 
 The research leverages adaptive protocols (such as LEACH) and optimization techniques to balance energy consumption across sensor nodes and reduce premature node failure. The result is a highly scalable, efficient, and context-aware clustering approach suited for real-world applications like smart cities, environmental monitoring, and industrial automation.
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-## Programming & Scripting
+### Programming & Scripting
 
 MATLAB (used for simulation and algorithm development)
 
-## Clustering & Optimization Techniques
+### Clustering & Optimization Techniques
 
 LEACH (Low-Energy Adaptive Clustering Hierarchy)
 
@@ -19,10 +19,10 @@ Dynamic Cluster Head Selection based on:
 2. Node Density
 3. Proximity to Base Station
 
-## Simulation Tools
+### Simulation Tools
 
 MATLAB (for modeling, simulations, and visualizations)
 
-## Visualization & Analysis
+### Visualization & Analysis
 
 MATLAB plots and graphs.
