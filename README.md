@@ -5,11 +5,12 @@ The research leverages adaptive protocols (such as LEACH) and optimization techn
 
 🛠️ Technology Stack
 
-**Programming & Scripting
+##Programming & Scripting
 
 MATLAB (used for simulation and algorithm development)
 
-**Clustering & Optimization Techniques
+##Clustering & Optimization Techniques
+
 LEACH (Low-Energy Adaptive Clustering Hierarchy)
 
 Dynamic Cluster Head Selection based on:
@@ -18,9 +19,10 @@ Dynamic Cluster Head Selection based on:
 2. Node Density
 3. Proximity to Base Station
 
-**Simulation Tools
+##Simulation Tools
+
 MATLAB (for modeling, simulations, and visualizations)
 
-**Visualization & Analysis
+##Visualization & Analysis
 
 MATLAB plots and graphs.
