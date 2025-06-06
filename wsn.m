@@ -78,7 +78,6 @@ for r = 1:rounds
     end
 end
 
-
 fprintf('First node died at round: %d\n', death_round);
 fprintf('Total dead nodes after %d rounds: %d\n', rounds, death_count);
 
